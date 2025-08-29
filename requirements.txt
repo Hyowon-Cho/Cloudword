@@ -1,0 +1,6 @@
+flask
+praw
+spacy
+wordcloud
+pillow
+python-dotenv
