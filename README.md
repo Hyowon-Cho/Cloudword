@@ -1,4 +1,8 @@
 # Cloudword
-The world cloud for Reddit
+The word cloud for reddit.com
 
-<img width="746" height="405" alt="스크린샷 2025-08-28 오후 7 05 02" src="https://github.com/user-attachments/assets/48929782-2885-4800-9b91-2131da2af136" />
+<img width="743" height="775" alt="Image" src="https://github.com/user-attachments/assets/532c5991-4679-4004-936e-4cd88be155a5" />
+
+<img width="743" height="775" alt="Image" src="https://github.com/user-attachments/assets/657b9feb-d783-45ee-a31c-ef9fc12fcb0c" />
+
+<img width="743" height="775" alt="Image" src="https://github.com/user-attachments/assets/b1ee3710-3cbc-4961-8597-844c7d26f49c" />
