@@ -4,7 +4,11 @@ This project collects text data from Reddit, processes it with Natural Language 
 
 ---
 
-## 🚀 How to Run
+https://cloudword.onrender.com
+
+---
+
+## How to Run
 
 ### 1. Clone Repository
 ```bash
@@ -81,8 +85,4 @@ Then, open in your browser:
 
 ## Test Pictures
 
-<img width="743" height="775" alt="Image" src="https://github.com/user-attachments/assets/532c5991-4679-4004-936e-4cd88be155a5" />
-
-<img width="743" height="775" alt="Image" src="https://github.com/user-attachments/assets/657b9feb-d783-45ee-a31c-ef9fc12fcb0c" />
-
-<img width="743" height="775" alt="Image" src="https://github.com/user-attachments/assets/b1ee3710-3cbc-4961-8597-844c7d26f49c" />
+<img width="1512" height="895" alt="스크린샷 2025-08-31 오후 9 38 46" src="https://github.com/user-attachments/assets/060155e3-7f83-4b38-add6-7efeb31f3832" />
