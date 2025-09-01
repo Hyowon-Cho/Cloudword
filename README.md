@@ -1,4 +1,4 @@
-# Cloudword
+# CloudWord
 
 This project collects text data from Reddit, processes it with Natural Language Processing (NLP), and generates **WordClouds** based on word frequencies. The results are visualized through a simple web dashboard built with Flask.
 
