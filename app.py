@@ -161,14 +161,13 @@ INDEX_HTML = """
           <option value="new">New</option>
           <option value="top">Top</option>
         </select>
-      </label>
-      <label>Time filter (only for Top)
-        <select id="timef">
-          <option value="all">All</option>
-          <option value="day">Past Day</option>
-          <option value="week">Past Week</option>
-          <option value="month">Past Month</option>
-          <option value="year">Past Year</option>
+        <label>Time filter
+          <select id="timef">
+            <option value="all">All time</option>
+            <option value="day">1 day</option>
+            <option value="week">1 week</option>
+            <option value="month">1 month</option>
+            <option value="year">1 year</option>
         </select>
       </label>
       <label>Colormap
